@@ -17,3 +17,5 @@ To get started with Docusaurus on Vercel, you can use the [Docusaurus CLI](https
 ```shell
 npx create-docusaurus@latest my-website classic
 ```
+
+After that it becomes a matter of creative discretion. The tutorials are simple enough and the layout ihmo is excellent. What is next? Well for me I plan on creating a blog about my journeys through open-source software development. I as well plan on creating a website where I can show the world my many web3 projects. Best of luck and all - HashbrownKazang
